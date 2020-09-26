@@ -2,7 +2,7 @@ body{
 	background-color:#f4f4f4;
 	color:#555;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:16px;
+	font-size:13px;
 	line-height:1.6em;
 	margin:0;
 }
@@ -41,7 +41,6 @@ body{
 
 #showcase{
 	background-image:url('../images/screenshot_showcase_central_dogma.png');
-	position: relative;
 	background-position: center;
 	min-height:94vh;
 	margin-bottom:30px;
@@ -50,9 +49,8 @@ body{
 
 #showcase h1{
 	color:#fff;
-	font-size:50px;
+	font-size:15px;
 	line-height: 1.6em;
-	padding-top:30px;
 }
 
 #main{
